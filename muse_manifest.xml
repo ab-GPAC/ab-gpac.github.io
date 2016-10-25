@@ -1,0 +1,228 @@
+<manifest alg="2" build="2015.2.1.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="abGPAG.com" resolutions="1x" timestamp="1476731131780">
+  <folder name="css">
+    <file name="site_global.css" crc="3760351631"/>
+    <file name="master_a-master.css" crc="3966048864" ref="travel:policies:advocacy:financial:budget-2015:members:budget-2016:contact:certificate:thanks:strategy:about:bylaw:index"/>
+    <file name="nomq_preview_master_a-master.css" crc="4016726000" ref="travel:policies:advocacy:financial:budget-2015:members:budget-2016:contact:certificate:thanks:strategy:about:bylaw:index"/>
+    <file name="travel.css" crc="154054726" ref="travel"/>
+    <file name="nomq_travel.css" crc="6943880" ref="travel"/>
+    <file name="iefonts_travel.css" crc="88369269" ref="travel"/>
+    <file name="policies.css" crc="4053301814" ref="policies"/>
+    <file name="nomq_policies.css" crc="3805110054" ref="policies"/>
+    <file name="iefonts_policies.css" crc="88369269" ref="policies"/>
+    <file name="advocacy.css" crc="181724439" ref="advocacy"/>
+    <file name="nomq_advocacy.css" crc="3773776132" ref="advocacy"/>
+    <file name="iefonts_advocacy.css" crc="88369269" ref="advocacy"/>
+    <file name="financial.css" crc="208660404" ref="financial"/>
+    <file name="nomq_financial.css" crc="66235508" ref="financial"/>
+    <file name="iefonts_financial.css" crc="88369269" ref="financial"/>
+    <file name="budget-2015.css" crc="87290525" ref="budget-2015"/>
+    <file name="nomq_budget-2015.css" crc="4171506790" ref="budget-2015"/>
+    <file name="iefonts_budget-2015.css" crc="88369269" ref="budget-2015"/>
+    <file name="members.css" crc="4187897858" ref="members"/>
+    <file name="nomq_members.css" crc="292654602" ref="members"/>
+    <file name="iefonts_members.css" crc="88369269" ref="members"/>
+    <file name="budget-2016.css" crc="3840220819" ref="budget-2016"/>
+    <file name="nomq_budget-2016.css" crc="244126892" ref="budget-2016"/>
+    <file name="iefonts_budget-2016.css" crc="88369269" ref="budget-2016"/>
+    <file name="contact.css" crc="3804544445" ref="contact"/>
+    <file name="nomq_contact.css" crc="489825678" ref="contact"/>
+    <file name="iefonts_contact.css" crc="88369269" ref="contact"/>
+    <file name="certificate.css" crc="4077072046" ref="certificate"/>
+    <file name="nomq_certificate.css" crc="4125878597" ref="certificate"/>
+    <file name="iefonts_certificate.css" crc="88369269" ref="certificate"/>
+    <file name="thanks.css" crc="4163631960" ref="thanks"/>
+    <file name="nomq_thanks.css" crc="4025663284" ref="thanks"/>
+    <file name="iefonts_thanks.css" crc="88369269" ref="thanks"/>
+    <file name="strategy.css" crc="100330866" ref="strategy"/>
+    <file name="nomq_strategy.css" crc="3895499282" ref="strategy"/>
+    <file name="iefonts_strategy.css" crc="88369269" ref="strategy"/>
+    <file name="about.css" crc="3783762327" ref="about"/>
+    <file name="nomq_about.css" crc="140676538" ref="about"/>
+    <file name="iefonts_about.css" crc="88369269" ref="about"/>
+    <file name="bylaw.css" crc="3761926359" ref="bylaw"/>
+    <file name="nomq_bylaw.css" crc="4155599645" ref="bylaw"/>
+    <file name="iefonts_bylaw.css" crc="88369269" ref="bylaw"/>
+    <file name="index.css" crc="513775961" ref="index"/>
+    <file name="nomq_index.css" crc="28741637" ref="index"/>
+    <file name="iefonts_index.css" crc="88369269" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="certificate-of-incorporation---march-10-2015-(1).pdf" crc="280210221" seo="true" mt="1466609488000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="169078940" ref="advocacy:members:contact:thanks:about:index:policies:budget-2015:budget-2016:certificate:strategy:bylaw:travel:financial"/>
+    <file name="museutils.js" crc="3851988764" ref="advocacy:members:contact:thanks:about:index:policies:budget-2015:budget-2016:certificate:strategy:bylaw:travel:financial"/>
+    <file name="whatinput.js" crc="86476730" ref="advocacy:members:contact:thanks:about:index:policies:budget-2015:budget-2016:certificate:strategy:bylaw:travel:financial"/>
+    <file name="museconfig.js" crc="4242129463" ref="advocacy:members:contact:thanks:about:index:policies:budget-2015:budget-2016:certificate:strategy:bylaw:travel:financial"/>
+    <file name="jquery.musemenu.js" crc="4150485998" ref="advocacy:members:contact:thanks:about:index:policies:budget-2015:budget-2016:certificate:strategy:bylaw:travel:financial"/>
+    <file name="jquery.watch.js" crc="3842844514" ref="advocacy:members:contact:thanks:about:index:policies:budget-2015:budget-2016:certificate:strategy:bylaw:travel:financial"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="271560940" ref="advocacy:members:contact:thanks:about:index:policies"/>
+    <file name="webpro.js" crc="4067903014" ref="advocacy:members:contact:thanks:about:index:policies:budget-2015:budget-2016:certificate:strategy:bylaw:travel:financial"/>
+    <file name="musewpdisclosure.js" crc="338211507" ref="advocacy:members:contact:thanks:about:index:policies:budget-2015:budget-2016:certificate:strategy:bylaw:travel:financial"/>
+    <file name="html5shiv.js" crc="4241844378" ref="advocacy:members:contact:thanks:about:index:policies:budget-2015:budget-2016:certificate:strategy:bylaw:travel:financial"/>
+    <file name="jquery.museresponsive.js" crc="516761069" ref="advocacy:members:contact:thanks:about:index:policies:budget-2015:budget-2016:certificate:strategy:bylaw:travel:financial"/>
+    <file name="require.js" crc="4108833657" ref="advocacy:members:contact:thanks:about:index:policies:budget-2015:budget-2016:certificate:strategy:bylaw:travel:financial"/>
+    <file name="form_check.php" crc="121412709" ref="contact"/>
+    <file name="form_throttle.php" crc="4268640971" ref="contact"/>
+    <file name="form_process.php" crc="444429785" ref="contact"/>
+    <file name="form-u69094.php" crc="4173328283" ref="contact"/>
+    <file name="form-u71258.php" crc="463258796" ref="contact"/>
+    <file name="form-u900.php" crc="297193839" ref="contact"/>
+    <file name="pie.js" crc="3831537696" ref="thanks"/>
+  </folder>
+  <folder name="images">
+    <file name="ab-gpac logo.png" crc="167350684" seo="true" ref="advocacy:members:contact:thanks:about:index:policies:budget-2015:budget-2016:certificate:strategy:bylaw:travel:financial"/>
+    <file name="advocacypic-02.jpg" crc="28591588" seo="true" ref="advocacy"/>
+    <file name="icon facebook-origina.png" crc="4023886928" ref="advocacy:members:contact:thanks:about:index:policies"/>
+    <file name="icon facebook-rollover.png" crc="104499823" ref="advocacy:members:contact:thanks:about:index:policies"/>
+    <file name="icon linked-original.png" crc="4032931736" ref="advocacy:members:contact:thanks:about:index:policies"/>
+    <file name="icon linked-rollover.png" crc="203013556" ref="advocacy:members:contact:thanks:about:index:policies"/>
+    <file name="icon tweeter-original.png" crc="4192695319" ref="advocacy:members:contact:thanks:about:index:policies"/>
+    <file name="icon tweeter-rollover.png" crc="90642718" ref="advocacy:members:contact:thanks:about:index:policies"/>
+    <file name="icon connect-original.png" crc="3896297925" ref="advocacy:members:contact:thanks:about:index:policies"/>
+    <file name="icon connect-on.png" crc="4015003836" ref="advocacy:members:contact:thanks:about:index:policies"/>
+    <file name="advocacypic-02489x278.jpg" crc="363000991" seo="true" ref="advocacy"/>
+    <file name="advocacypic2.jpg" crc="513904630" seo="true" ref="advocacy"/>
+    <file name="advocacypic2450x258.jpg" crc="3836819844" seo="true" ref="advocacy"/>
+    <file name="advocacypic2320x183.jpg" crc="5059738" seo="true" ref="advocacy"/>
+    <file name="blank.gif" crc="4208392903" ref="advocacy:members:contact:thanks:about:index:policies:budget-2015:budget-2016:certificate:strategy:bylaw:travel:financial"/>
+    <file name="albertac150x152.png" crc="3980553549" seo="true" ref="members"/>
+    <file name="augsa.png" crc="73531609" seo="true" ref="members"/>
+    <file name="ulgsa.png" crc="4002464501" seo="true" ref="members"/>
+    <file name="uc.png" crc="399433713" seo="true" ref="members"/>
+    <file name="albertac149x152.png" crc="3980553549" seo="true" ref="members"/>
+    <file name="albertac129x132.png" crc="3980553549" seo="true" ref="members"/>
+    <file name="albertac110x112.png" crc="3980553549" seo="true" ref="members"/>
+    <file name="albertac98x100.png" crc="3980553549" seo="true" ref="members"/>
+    <file name="albertac158x160.png" crc="3980553549" seo="true" ref="members"/>
+    <file name="albertac.png" crc="3980553549" seo="true" ref="members"/>
+    <file name="albertac128x130.png" crc="3980553549" seo="true" ref="members"/>
+    <file name="albertac93x95.png" crc="3980553549" seo="true" ref="members"/>
+    <file name="albertac80x81.png" crc="4043550768" seo="true" ref="members"/>
+    <file name="u69101-17.png" crc="4132834124" ref="contact"/>
+    <file name="u69101-17-r.png" crc="155629985" ref="contact"/>
+    <file name="u69101-17-m.png" crc="155629985" ref="contact"/>
+    <file name="u69101-17-fs.png" crc="155629985" ref="contact"/>
+    <file name="u71267.png" crc="359176786" ref="contact"/>
+    <file name="u71267-ferr.png" crc="206342988" ref="contact"/>
+    <file name="u71263.png" crc="196027328" ref="contact"/>
+    <file name="u71263-ferr.png" crc="3841249732" ref="contact"/>
+    <file name="u71260-17.png" crc="4250176740" ref="contact"/>
+    <file name="u71260-17-r.png" crc="291459380" ref="contact"/>
+    <file name="u71260-17-m.png" crc="291459380" ref="contact"/>
+    <file name="u71260-17-fs.png" crc="291459380" ref="contact"/>
+    <file name="u71273.png" crc="134581087" ref="contact"/>
+    <file name="u71273-ferr.png" crc="428738732" ref="contact"/>
+    <file name="u712672.png" crc="359176786" ref="contact"/>
+    <file name="u71267-ferr2.png" crc="206342988" ref="contact"/>
+    <file name="u712632.png" crc="196027328" ref="contact"/>
+    <file name="u71263-ferr2.png" crc="3841249732" ref="contact"/>
+    <file name="u71260-172.png" crc="4250176740" ref="contact"/>
+    <file name="u71260-17-r2.png" crc="291459380" ref="contact"/>
+    <file name="u71260-17-m2.png" crc="291459380" ref="contact"/>
+    <file name="u71260-17-fs2.png" crc="291459380" ref="contact"/>
+    <file name="u712732.png" crc="134581087" ref="contact"/>
+    <file name="u71273-ferr2.png" crc="428738732" ref="contact"/>
+    <file name="u903-17.png" crc="4132834124" ref="contact"/>
+    <file name="u903-17-r.png" crc="155629985" ref="contact"/>
+    <file name="u903-17-m.png" crc="155629985" ref="contact"/>
+    <file name="u903-17-fs.png" crc="155629985" ref="contact"/>
+    <file name="u903-172.png" crc="4132834124" ref="contact"/>
+    <file name="u903-17-r2.png" crc="155629985" ref="contact"/>
+    <file name="u903-17-m2.png" crc="155629985" ref="contact"/>
+    <file name="u903-17-fs2.png" crc="155629985" ref="contact"/>
+    <file name="u903-173.png" crc="4132834124" ref="contact"/>
+    <file name="u903-17-r3.png" crc="155629985" ref="contact"/>
+    <file name="u903-17-m3.png" crc="155629985" ref="contact"/>
+    <file name="u903-17-fs3.png" crc="155629985" ref="contact"/>
+    <file name="u903-174.png" crc="4132834124" ref="contact"/>
+    <file name="u903-17-r4.png" crc="155629985" ref="contact"/>
+    <file name="u903-17-m4.png" crc="155629985" ref="contact"/>
+    <file name="u903-17-fs4.png" crc="155629985" ref="contact"/>
+    <file name="u903-175.png" crc="4132834124" ref="contact"/>
+    <file name="u903-17-r5.png" crc="155629985" ref="contact"/>
+    <file name="u903-17-m5.png" crc="155629985" ref="contact"/>
+    <file name="u903-17-fs5.png" crc="155629985" ref="contact"/>
+    <file name="u903-176.png" crc="4132834124" ref="contact"/>
+    <file name="u903-17-r6.png" crc="155629985" ref="contact"/>
+    <file name="u903-17-m6.png" crc="155629985" ref="contact"/>
+    <file name="u903-17-fs6.png" crc="155629985" ref="contact"/>
+    <file name="u903-177.png" crc="4132834124" ref="contact"/>
+    <file name="u903-17-r7.png" crc="155629985" ref="contact"/>
+    <file name="u903-17-m7.png" crc="155629985" ref="contact"/>
+    <file name="u903-17-fs7.png" crc="155629985" ref="contact"/>
+    <file name="u903-178.png" crc="4132834124" ref="contact"/>
+    <file name="u903-17-r8.png" crc="155629985" ref="contact"/>
+    <file name="u903-17-m8.png" crc="155629985" ref="contact"/>
+    <file name="u903-17-fs8.png" crc="155629985" ref="contact"/>
+    <file name="u903-179.png" crc="4132834124" ref="contact"/>
+    <file name="u903-17-r9.png" crc="155629985" ref="contact"/>
+    <file name="u903-17-m9.png" crc="155629985" ref="contact"/>
+    <file name="u903-17-fs9.png" crc="155629985" ref="contact"/>
+    <file name="u903-1710.png" crc="4132834124" ref="contact"/>
+    <file name="u903-17-r10.png" crc="155629985" ref="contact"/>
+    <file name="u903-17-m10.png" crc="155629985" ref="contact"/>
+    <file name="u903-17-fs10.png" crc="155629985" ref="contact"/>
+    <file name="u903-1711.png" crc="4132834124" ref="contact"/>
+    <file name="u903-17-r11.png" crc="155629985" ref="contact"/>
+    <file name="u903-17-m11.png" crc="155629985" ref="contact"/>
+    <file name="u903-17-fs11.png" crc="155629985" ref="contact"/>
+    <file name="u903-1712.png" crc="4132834124" ref="contact"/>
+    <file name="u903-17-r12.png" crc="155629985" ref="contact"/>
+    <file name="u903-17-m12.png" crc="155629985" ref="contact"/>
+    <file name="u903-17-fs12.png" crc="155629985" ref="contact"/>
+    <file name="u903-1713.png" crc="4132834124" ref="contact"/>
+    <file name="u903-17-r13.png" crc="155629985" ref="contact"/>
+    <file name="u903-17-m13.png" crc="155629985" ref="contact"/>
+    <file name="u903-17-fs13.png" crc="155629985" ref="contact"/>
+    <file name="u903-1714.png" crc="4132834124" ref="contact"/>
+    <file name="u903-17-r14.png" crc="155629985" ref="contact"/>
+    <file name="u903-17-m14.png" crc="155629985" ref="contact"/>
+    <file name="u903-17-fs14.png" crc="155629985" ref="contact"/>
+    <file name="u293447-4.png" crc="101163116" ref="about"/>
+    <file name="4picbig.jpg" crc="4239203677" seo="true" ref="about"/>
+    <file name="u293447-42.png" crc="4192381239" ref="about"/>
+    <file name="u293447-43.png" crc="4178049642" ref="about"/>
+    <file name="u293447-44.png" crc="506433053" ref="about"/>
+    <file name="u293447-45.png" crc="3925564262" ref="about"/>
+    <file name="4pic1.jpg" crc="398538989" seo="true" ref="about"/>
+    <file name="4picss2.jpg" crc="4052795048" seo="true" ref="about"/>
+    <file name="4picss3.jpg" crc="3762850393" seo="true" ref="about"/>
+    <file name="4picss4.jpg" crc="3763284183" seo="true" ref="about"/>
+    <file name="u293447-46.png" crc="4203967805" ref="about"/>
+    <file name="u293447-47.png" crc="4236332241" ref="about"/>
+    <file name="u293447-48.png" crc="3975531011" ref="about"/>
+    <file name="pics-01.jpg" crc="3869663259" seo="true" ref="about"/>
+    <file name="pics-02.jpg" crc="226358358" seo="true" ref="about"/>
+    <file name="pics-03.jpg" crc="4070727391" seo="true" ref="about"/>
+    <file name="pics-04.jpg" crc="345893285" seo="true" ref="about"/>
+    <file name="u293447-49.png" crc="3830464092" ref="about"/>
+    <file name="u296439-4.png" crc="4175414082" ref="about"/>
+    <file name="u296439-42.png" crc="247500428" ref="about"/>
+    <file name="u297201-4.png" crc="3885946680" ref="about"/>
+    <file name="4pic1132x132.jpg" crc="311858059" seo="true" ref="about"/>
+    <file name="4picss2132x132.jpg" crc="342120890" seo="true" ref="about"/>
+    <file name="4picss3133x133.jpg" crc="388782728" seo="true" ref="about"/>
+    <file name="4picss4131x131.jpg" crc="3843518369" seo="true" ref="about"/>
+    <file name="mainpic2.jpg" crc="21099506" seo="true" ref="index"/>
+    <file name="mainpic2532x356.jpg" crc="3771587826" seo="true" ref="index"/>
+    <file name="mainpic2453x303.jpg" crc="4060987365" seo="true" ref="index"/>
+    <file name="mainpic3.jpg" crc="3809166412" seo="true" ref="index"/>
+    <file name="mainpic2450x301.jpg" crc="531056044" seo="true" ref="index"/>
+    <file name="mainpic2320x214.jpg" crc="3878797740" seo="true" ref="index"/>
+  </folder>
+  <file name="advocacy.html" crc="71861626" seo="true" mt="1475518045985" redirect="true"/>
+  <file name="members.html" crc="4003141875" seo="true" mt="1476730802472" redirect="true"/>
+  <file name="contact.html" crc="4036137632" seo="true" mt="1475518045985" redirect="true"/>
+  <file name="thanks.html" crc="471891931" seo="true" mt="1475518045985" redirect="true"/>
+  <file name="about.html" crc="117542486" seo="true" mt="1475518045985" redirect="true"/>
+  <file name="index.html" crc="3777785651" seo="true" mt="1475518045985" redirect="true"/>
+  <file name="policies.html" crc="306564159" seo="true" mt="1475518045985" redirect="true"/>
+  <file name="budget-2015.html" crc="87072602" seo="true" mt="1475518045985" redirect="true"/>
+  <file name="budget-2016.html" crc="232927153" seo="true" mt="1475518045985" redirect="true"/>
+  <file name="certificate.html" crc="3776418895" seo="true" mt="1475518045985" redirect="true"/>
+  <file name="strategy.html" crc="245463836" seo="true" mt="1475518045985" redirect="true"/>
+  <file name="bylaw.html" crc="3996195295" seo="true" mt="1475518045985" redirect="true"/>
+  <file name="travel.html" crc="267892089" seo="true" mt="1475518045985" redirect="true"/>
+  <file name="financial.html" crc="3791262775" seo="true" mt="1475518045985" redirect="true"/>
+</manifest>
